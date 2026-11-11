@@ -6,6 +6,7 @@
 
 ```sh
 npm ci
+cp .env.production .env.local
 npm run dev
 ```
 
